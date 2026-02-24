@@ -73,8 +73,8 @@ Each question supports:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/suhailali073/project.git
+cd project
 ```
 
 ### 2️⃣ Install Dependencies
